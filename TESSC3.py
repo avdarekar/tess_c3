@@ -40,11 +40,4 @@ f.close()
 
 
 
-c3_observed = []
-    for i in c3:
-        if "not observed" not in i:
-            c3_observed.append(i)
-
-
-
 
